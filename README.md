@@ -1,1 +1,1 @@
-MyOCR excercise  
+Text Recognizer excercise with ML Kit
